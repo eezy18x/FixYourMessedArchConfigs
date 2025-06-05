@@ -15,9 +15,10 @@ These configs helped me fix my own messed-up system — now I’m sharing them i
 ✅ Use With Caution <br>
 
 These files work on my setup and may not fit every Arch install. Double-check before replacing your own files — always back up first! <br>
+
  📤 Want to Contribute? <br>
 
-Feel free to fork and PR your own working configs or improvements! <br>
+Mail me  <br>
 
 🧠 Why I Made This <br>
 
